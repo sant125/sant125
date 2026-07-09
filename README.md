@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro DevOps/Cloud com **2+ anos** operando ambientes de produção **multi-cloud (AWS/GCP)** para múltiplos clientes simultâneos. Provisiono e opero clusters **Kubernetes (EKS/GKE)** com **Terraform**, implementando GitOps via **ArgoCD**, autoscaling com **Karpenter** e observabilidade full-stack com **Prometheus**, **Grafana** e **Loki**.
+Engenheiro DevOps/Cloud com **3+ anos** operando ambientes de produção **multi-cloud (AWS/GCP)** para múltiplos clientes simultâneos. Provisiono e opero clusters **Kubernetes (EKS/GKE)** com **Terraform**, implementando GitOps via **ArgoCD**, autoscaling com **Karpenter** e observabilidade full-stack com **Prometheus**, **Grafana** e **Loki**.
 
 Automatizo pipelines CI/CD com SAST/DAST integrados e gerencio ambientes Linux em produção com troubleshooting avançado (LVM, systemd, iptables, redes). Desenvolvimento em **Go** é minha principal linguagem — uso no dia a dia para automações, ferramentas internas e projetos próprios. Formação sólida em sysadmin Linux.
 
